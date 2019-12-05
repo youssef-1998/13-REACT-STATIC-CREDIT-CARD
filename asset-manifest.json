@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/13-REACT-STATIC-CREDIT-CARD/static/css/main.1054b5c4.chunk.css",
+    "main.js": "/13-REACT-STATIC-CREDIT-CARD/static/js/main.e0e14a7e.chunk.js",
+    "main.js.map": "/13-REACT-STATIC-CREDIT-CARD/static/js/main.e0e14a7e.chunk.js.map",
+    "runtime-main.js": "/13-REACT-STATIC-CREDIT-CARD/static/js/runtime-main.0517708f.js",
+    "runtime-main.js.map": "/13-REACT-STATIC-CREDIT-CARD/static/js/runtime-main.0517708f.js.map",
+    "static/js/2.033b6ab0.chunk.js": "/13-REACT-STATIC-CREDIT-CARD/static/js/2.033b6ab0.chunk.js",
+    "static/js/2.033b6ab0.chunk.js.map": "/13-REACT-STATIC-CREDIT-CARD/static/js/2.033b6ab0.chunk.js.map",
+    "index.html": "/13-REACT-STATIC-CREDIT-CARD/index.html",
+    "precache-manifest.5bd92bc0dab1b7c52b3880d9871dcb15.js": "/13-REACT-STATIC-CREDIT-CARD/precache-manifest.5bd92bc0dab1b7c52b3880d9871dcb15.js",
+    "service-worker.js": "/13-REACT-STATIC-CREDIT-CARD/service-worker.js",
+    "static/css/main.1054b5c4.chunk.css.map": "/13-REACT-STATIC-CREDIT-CARD/static/css/main.1054b5c4.chunk.css.map",
+    "static/media/App.css": "/13-REACT-STATIC-CREDIT-CARD/static/media/background.1aff8491.jpg",
+    "static/media/puce 1.png": "/13-REACT-STATIC-CREDIT-CARD/static/media/puce 1.7cf0ee8b.png",
+    "static/media/visa.jpeg": "/13-REACT-STATIC-CREDIT-CARD/static/media/visa.260255dd.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0517708f.js",
+    "static/js/2.033b6ab0.chunk.js",
+    "static/css/main.1054b5c4.chunk.css",
+    "static/js/main.e0e14a7e.chunk.js"
+  ]
+}
